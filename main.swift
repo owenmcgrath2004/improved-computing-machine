@@ -4,6 +4,7 @@ func main() {
         print("Name: \(setData.name)")
         print("Description: \(setData.description)")
         print("Class: \(setData.className)")
+        print("Hello World!")
         
         addSetQuestionsAndAnswers(setName: setData.name)
     } else {
